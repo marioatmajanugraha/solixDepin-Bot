@@ -3,10 +3,13 @@
 
 Script ini digunakan untuk mengotomatiskan tugas dan pengambilan Connection Quality di platform Solix DePIN.
 
-![Solix Management](https://github.com/user-attachments/assets/af2bd1b0-ac9e-43a1-b77e-fea1cb85b7a9)
-
+![photo_2025-04-14_13-08-44](https://github.com/user-attachments/assets/a2180455-49dc-4960-a2cc-42d72cae82e0)
 
 ---
+## 📌 New Update 
+- auto Relogin
+- Get Total Points
+
 
 ## 📌 Fitur
 
